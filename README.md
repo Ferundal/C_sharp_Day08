@@ -1,4 +1,4 @@
-# Day 08 – Piscine .NET
+# Day 08 – Bootcamp .NET
 ### Testing
 
 # Contents
