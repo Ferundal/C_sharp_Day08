@@ -1,4 +1,4 @@
-# Day 08 – Bootcamp .NET
+# Day 08 – .NET Boot camp
 ### Testing
 
 # Contents
